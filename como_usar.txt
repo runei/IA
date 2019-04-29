@@ -1,0 +1,33 @@
+Programas em prolog compilados com o yap.
+
+Prolog trabalho 1
+
+Informacao sobre voos (Pode-se especificar qualquer uma das variaveis para obter a correspondencia desejada).
+
+	flight(zurich,milan,Day,Number,DepartureTime,ArrivalTime).
+
+Voos num dia da semana especifico
+
+	route(edinburgh,zurich,mo,Path).
+
+Varios voos (um por dia) com uma cidade inicial e final durante um intervalo de dias
+
+	travel(zurich,[milan,london],mo,tu,Rota).
+
+Python trabalho 1
+
+Compilar e executar:
+
+	python3 trabFlights.py
+
+No programa digite o numero da pergunta que deseja ser respondida.
+
+
+Prolog trabalho 2
+
+	sentence(X, ['A',vida,corre], []).
+
+Java trabalho 2
+
+	Compilar e executar: javac Ex2Main.java && java Ex2Main
+
